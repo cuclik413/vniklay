@@ -1,5 +1,5 @@
 node_modules/
 dist/
-public/videos/
+
 .DS_Store
 *.local
